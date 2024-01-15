@@ -30,7 +30,7 @@ This Telegram bot allows users to pair with a server and execute commands remote
 
 2. **Set Up Environment Variables**: Store your Telegram bot token in the environment variable `BOT_TOKEN`.
 
-3. **Run the Bot**: Execute the bot script using `node app.js`.
+3. **Run the Bot**: Execute the bot script using `node index.js`.
 
 ## Usage
 
